@@ -7,11 +7,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Sistema de gerenciamento de serviços e de pessoas">
     <meta name="author" content="Thiago Pereira dos Santos">
-    <meta name="keyword" content="Sistema de gerenciamento de serviços e de pessoas">
+    <meta name="keyword" content="Sistema de cotação">
     <!-- <link rel="shortcut icon" href="assets/ico/favicon.png"> -->
 
 
-    <title>BT - Banco de talentos</title>
+    <title>SPD-AC - Bem vindo</title>
 
     <!-- Icons -->
     <link href="{{ asset('css/font-awesome.min.css') }}" rel="stylesheet">

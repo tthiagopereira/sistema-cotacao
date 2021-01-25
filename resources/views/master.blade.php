@@ -8,7 +8,7 @@
   <meta name="author" content="Łukasz Holeczek">
   <meta name="keyword" content="Gerenciamento de viaturas">
   <link rel="shortcut icon" href="{{ asset('img/logo.png') }}">
-  <title>BT - Banco de talentos</title>
+  <title>SPD-AC</title>
 
   <!-- Icons -->
   <link href="{{ asset('css/font-awesome.min.css') }}" rel="stylesheet">

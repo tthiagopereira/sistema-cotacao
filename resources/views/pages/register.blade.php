@@ -6,11 +6,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="CoreUI Bootstrap 4 Admin Template">
-    <meta name="author" content="Lukasz Holeczek">
-    <meta name="keyword" content="CoreUI Bootstrap 4 Admin Template">
+    <meta name="author" content="THIAGO PEREIRA DOS SANTOS">
+    <meta name="keyword" content="Cotação">
     <!-- <link rel="shortcut icon" href="assets/ico/favicon.png"> -->
 
-    <title>Registra-se</title>
+    <title>SPD-AC - Cadastro</title>
 
     <!-- Icons -->
     <link href="{{ asset('css/font-awesome.min.css') }}" rel="stylesheet">
